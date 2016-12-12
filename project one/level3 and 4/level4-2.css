@@ -1,0 +1,58 @@
+*{
+	background-color: #ECDADF;
+	font-family: sans-serif;
+	font-size: 2px;
+}
+
+p{
+	color:red;
+}
+
+#one{
+	color: white;
+	float: right;
+	font-family:sans-serif;
+	padding: 10px;
+}
+
+#two{
+	color: grey;
+	float: left;
+	font-family:sans-serif;
+	padding: 10px;
+
+}
+#three{
+	color:white;
+	float: right;
+}
+#four{
+	float: left;
+
+	color:grey;
+
+
+}
+#five{
+	color: white;
+	float: right;
+
+}
+#six{
+	color:grey;
+
+}
+#seven{
+
+	color:white;
+
+}
+#eight{
+
+color: grey;
+
+}
+#nine{
+color:white;
+
+}

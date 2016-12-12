@@ -1,0 +1,71 @@
+
+*{
+	background-color: black;
+	font-family: sans-serif;
+}
+
+p{
+	color:red;
+}
+
+#one{
+	color: white;
+	background-color:black;
+	float: right;
+	font-family:sans-serif;
+	padding: 10px;
+}
+
+#two{
+	color: grey;
+	background-color:black;
+	float: left;
+	font-family:sans-serif;
+	padding: 10px;
+
+}
+#three{
+	color:white;
+	float: right;
+}
+#four{
+	float: left;
+
+	color:grey;
+
+
+}
+#five{
+	color: white;
+	float: right;
+
+}
+#six{
+	color:grey;
+
+}
+#seven{
+
+	color:white;
+
+}
+#eight{
+
+color: grey;
+
+}
+#nine{
+color:white;
+
+}
+
+
+
+
+
+
+
+
+
+
+

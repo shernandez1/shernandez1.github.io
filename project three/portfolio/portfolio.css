@@ -1,0 +1,24 @@
+*{
+  background-image: url('http://66.media.tumblr.com/5ed8aaceeeebf45930a4f20bb4671a2d/tumblr_muqj0gidDw1qj5xnmo1_540.jpg');
+  background-size: cover;
+
+}
+
+h1{
+  font-family: 'Arial';
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
+
+h4{
+  font-family: 'Bell Gothic Std';
+  background: white;
+  letter-spacing: 2px;
+  font-size: 12px;
+  margin-top: 10px;
+  width: 80px;
+}
+
+
+

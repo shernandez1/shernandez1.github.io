@@ -1,0 +1,66 @@
+*{
+	background-color: #C0C0C0;
+	font-family: sans-serif;
+}
+
+p{
+	color:red;
+	margin: 400px;
+	float:right;
+	font-size: 4px;
+}
+
+#one{
+	color: white;
+	float: right;
+	font-family:sans-serif;
+	padding: 10px;
+	margin: 200px 200px 300px;
+}
+
+#two{
+	color: grey;
+	float: left;
+	font-family:sans-serif;
+	padding: 10px;
+	font-size: 100px;
+
+}
+#three{
+	color:white;
+	float: right;
+}
+#four{
+	float: left;
+
+	color:grey;
+
+
+}
+#five{
+	color: white;
+	float: right;
+
+}
+#six{
+	color:grey;
+	font-size: 80px;
+	font-style: bold;
+
+}
+#seven{
+
+	color:white;
+	font-size: 8px;
+
+}
+#eight{
+
+color: grey;
+
+}
+#nine{
+color:white;
+font-size: 700px;
+
+}

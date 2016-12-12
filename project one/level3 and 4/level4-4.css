@@ -1,0 +1,59 @@
+*{
+	background-color: black;
+	margin: 80px 10px 50px 50px;
+}
+
+.box{
+
+	color:white;
+
+}
+.box1{
+	color:white;
+
+	margin: -100px;
+}
+
+.box2{
+	color:white;
+
+	margin: -90px;
+
+}
+.box3{
+	color: white;
+
+	margin:-80px;
+}
+.box4{
+	color:white;
+
+	margin: -70px;
+}
+.box5{
+	color: white;
+
+	margin:-80px;
+}
+
+.box6{
+	color:#CCBBEE;
+	margin: -160px;
+	font-size: 20px;
+}
+.box7{
+	color:#CCCCFF;
+
+	margin: -100px;
+}
+
+.box8{
+	color:#CCCCFF;
+
+	margin: -100px;
+}
+.box9{
+	color:#CCCCFF;
+	font-size: 100px;
+	margin: -100px;
+}
